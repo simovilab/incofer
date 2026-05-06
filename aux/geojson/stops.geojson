@@ -1,0 +1,719 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.03704363474235,
+          9.92530063876106
+        ]
+      },
+      "properties": {
+        "stop_id": "CFI",
+        "stop_code": "CFI",
+        "stop_name": "CFIA",
+        "stop_desc": "Al costado norte del Banco de Costa Rica, calle 093, transversal 093, Freses, Curridabat",
+        "zone_id": "zone_A",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.04416183400951,
+          9.932722742381136
+        ]
+      },
+      "properties": {
+        "stop_id": "ULT",
+        "stop_code": "ULT",
+        "stop_name": "U Latina",
+        "stop_desc": "Al costado norte de la Universidad Latina, final norte de calle 73, Lourdes, San Pedro",
+        "zone_id": "zone_A",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.05259208288311,
+          9.934196463000488
+        ]
+      },
+      "properties": {
+        "stop_id": "UCR",
+        "stop_code": "UCR",
+        "stop_name": "UCR",
+        "stop_desc": "Al costado sur Facultad de Arquitectura de la Universidad de Costa Rica, calles 53 y 57, avenidas 1 y de la Facultad, San Pedro",
+        "zone_id": "zone_A",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.06884518953048,
+          9.93481239427334
+        ]
+      },
+      "properties": {
+        "stop_id": "ATL",
+        "stop_code": "ATL",
+        "stop_name": "Estaci\u00f3n Atl\u00e1ntico",
+        "stop_desc": "En diagonal al costado suroeste de la Antigua Aduana, calles 21 y 23, paseo de Las Damas, San Jos\u00e9",
+        "zone_id": "zone_E",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07237719917173,
+          9.93148250199304
+        ]
+      },
+      "properties": {
+        "stop_id": "LCO",
+        "stop_code": "LCO",
+        "stop_name": "La Corte",
+        "stop_desc": "Al costado norte del Juzgado Notarial, calles 13 y 15, avenidas 2 y 6, San Jos\u00e9",
+        "zone_id": "zone_A",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07417007268589,
+          9.925212396096107
+        ]
+      },
+      "properties": {
+        "stop_id": "PVI",
+        "stop_code": "PVI",
+        "stop_name": "Plaza V\u00edquez",
+        "stop_desc": "Al costado oeste de la piscina infantil Plaza Gonz\u00e1lez V\u00edquez, calles 11 y 13, avenidas 18 y 22, San Jos\u00e9",
+        "zone_id": "zone_A",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08057149519063,
+          9.925653138874257
+        ]
+      },
+      "properties": {
+        "stop_id": "EPA",
+        "stop_code": "EPA",
+        "stop_name": "Estaci\u00f3n Pac\u00edfico",
+        "stop_desc": "Al costado norte del Hospital de la Mujer, calles central y 4, avenida 20, San Jos\u00e9",
+        "zone_id": "zone_B",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09178559693969,
+          9.927121045369502
+        ]
+      },
+      "properties": {
+        "stop_id": "BCU",
+        "stop_code": "BCU",
+        "stop_name": "Barrio Cuba",
+        "stop_desc": "Al costado sur del Cementerio General, avenidas 22 y 28, calle transversal 24, San Jos\u00e9",
+        "zone_id": "zone_C",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10174379426503,
+          9.932720263435725
+        ]
+      },
+      "properties": {
+        "stop_id": "CON",
+        "stop_code": "CON",
+        "stop_name": "Contralor\u00eda",
+        "stop_desc": "Al costado norte de la Contralor\u00eda General de la Rep\u00fablica, calles 50 y 54, avenida 12, Sabana Sur",
+        "zone_id": "zone_C",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.10986031084904,
+          9.933611144195913
+        ]
+      },
+      "properties": {
+        "stop_id": "SLL",
+        "stop_code": "SLL",
+        "stop_name": "La Salle",
+        "stop_desc": "Al costado norte del Colegio de M\u00e9dicos de Costa Rica, calles 66 y 68, avenida 12, Sabana Sur",
+        "zone_id": "zone_C",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11954202177782,
+          9.938060895753424
+        ]
+      },
+      "properties": {
+        "stop_id": "AYA",
+        "stop_code": "AYA",
+        "stop_name": "AyA",
+        "stop_desc": "Al costado sur de la Sede Central de Acueductos y Alcantarillados, final sur de calle 86A, Zona Industrial, Pavas",
+        "zone_id": "zone_C",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.12386739407133,
+          9.94036421846442
+        ]
+      },
+      "properties": {
+        "stop_id": "JCK",
+        "stop_code": "JCK",
+        "stop_name": "Jack's",
+        "stop_desc": "Al costado sur de Sylvania, avenidas 11 y 15, contiguo calle 98, Zona Industrial, Pavas",
+        "zone_id": "zone_C",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13475346106277,
+          9.940248821922458
+        ]
+      },
+      "properties": {
+        "stop_id": "PAV",
+        "stop_code": "PAV",
+        "stop_name": "Pavas Centro",
+        "stop_desc": "75 m al sur y 50 m al oeste de la Iglesia de Santa B\u00e1rbara de Pavas, calles 120 y 122, avenidas 11 y 13, Pavas",
+        "zone_id": "zone_C",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.13851180190743,
+          9.946590955561911
+        ]
+      },
+      "properties": {
+        "stop_id": "PEC",
+        "stop_code": "PEC",
+        "stop_name": "Pecosa",
+        "stop_desc": "Al costado norte Distribuidora Pecosa, final sur de calle 130A, Pavas",
+        "zone_id": "zone_C",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.14477726535797,
+          9.951303625784353
+        ]
+      },
+      "properties": {
+        "stop_id": "DEM",
+        "stop_code": "DEM",
+        "stop_name": "Demasa",
+        "stop_desc": "Al costado oeste de Demasa, transversal 142 y calle 156, Rinc\u00f3n Grande, Pavas",
+        "zone_id": "zone_C",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15066314575766,
+          9.95700397343134
+        ]
+      },
+      "properties": {
+        "stop_id": "MET",
+        "stop_code": "MET",
+        "stop_name": "Metr\u00f3poli",
+        "stop_desc": "Al costado sur de Asfaltos CBZ, transversal 142 y calle 158, Rinc\u00f3n Grande, Pavas",
+        "zone_id": "zone_C",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.17902409172927,
+          9.974990571218004
+        ]
+      },
+      "properties": {
+        "stop_id": "PED",
+        "stop_code": "PED",
+        "stop_name": "Pedregal",
+        "stop_desc": "150 m al sur de La Casona de Pedregal, Centro de Eventos Pedregal, Bel\u00e9n",
+        "zone_id": "zone_D",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18503952268722,
+          9.978525595449552
+        ]
+      },
+      "properties": {
+        "stop_id": "BEL",
+        "stop_code": "BEL",
+        "stop_name": "Estaci\u00f3n Bel\u00e9n",
+        "stop_desc": "150 m al este de la plaza de deportes, Calles 1 y 150, avenida 2, Bel\u00e9n",
+        "zone_id": "zone_D",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.07300389076869,
+          9.946182680273775
+        ]
+      },
+      "properties": {
+        "stop_id": "CBL",
+        "stop_code": "CBL",
+        "stop_name": "Calle Blancos",
+        "stop_desc": "400 m al sur del Tribunal Contencioso Administrativo y Civil, carretera regional 100, Calle Blancos",
+        "zone_id": "zone_G",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.08808303914199,
+          9.957875927990399
+        ]
+      },
+      "properties": {
+        "stop_id": "CLM",
+        "stop_code": "CLM",
+        "stop_name": "Colima",
+        "stop_desc": "300 m noroeste de Metalco, transversal 18, avenida 51D, Colima, Tib\u00e1s",
+        "zone_id": "zone_G",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.09823357926133,
+          9.972176398056565
+        ]
+      },
+      "properties": {
+        "stop_id": "ROS",
+        "stop_code": "ROS",
+        "stop_name": "Santa Rosa",
+        "stop_desc": "200 m al suroeste y 80 m al sureste de la Iglesia de Santa Rosa, calle la Estaci\u00f3n, Santa Rosa, Heredia",
+        "zone_id": "zone_G",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1089167332531,
+          9.987415097103808
+        ]
+      },
+      "properties": {
+        "stop_id": "MFL",
+        "stop_code": "MFL",
+        "stop_name": "Miraflores",
+        "stop_desc": "100 m al este y 25 m al norte del Paseo de las Flores, contiguo al antiguo complejo Miraflores, calle B, Heredia",
+        "zone_id": "zone_G",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11712593433802,
+          9.9947091981885
+        ]
+      },
+      "properties": {
+        "stop_id": "HER",
+        "stop_code": "HER",
+        "stop_name": "Estaci\u00f3n Heredia",
+        "stop_desc": "100 m al sur del Mercado de Heredia, calles Central y 2, avenida 10, Heredia",
+        "zone_id": "zone_H",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1292950039381,
+          9.994929653109462
+        ]
+      },
+      "properties": {
+        "stop_id": "SFR",
+        "stop_code": "SFR",
+        "stop_name": "San Francisco",
+        "stop_desc": "Al costado norte de la rotonda Ox\u00edgeno, carretera regional 111, San Francisco, Heredia",
+        "zone_id": "zone_I",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15238307961802,
+          10.003267003590215
+        ]
+      },
+      "properties": {
+        "stop_id": "JOQ",
+        "stop_code": "JOQ",
+        "stop_name": "San Joaqu\u00edn",
+        "stop_desc": "Al costado sur de la plaza de deportes, calles Central y 2, avenida Central, San Joaqu\u00edn de Flores, Heredia",
+        "zone_id": "zone_I",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.18416967284529,
+          10.00280511668109
+        ]
+      },
+      "properties": {
+        "stop_id": "RIO",
+        "stop_code": "RIO",
+        "stop_name": "R\u00edo Segundo",
+        "stop_desc": "250 m al sureste de la Delegaci\u00f3n policial, transversal a carretera nacional 3, R\u00edo Segundo, Alajuela",
+        "zone_id": "zone_I",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.19521218364292,
+          10.001666842660482
+        ]
+      },
+      "properties": {
+        "stop_id": "SJO",
+        "stop_code": "SJO",
+        "stop_name": "Bulevar Aeropuerto",
+        "stop_desc": "Al costado norte del Hotel Holiday Inn Aeropuerto, calle Holiday Inn, Alajuela",
+        "zone_id": "zone_I",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.20928013755687,
+          10.008588147098596
+        ]
+      },
+      "properties": {
+        "stop_id": "ALJ",
+        "stop_code": "ALJ",
+        "stop_name": "Alajuela",
+        "stop_desc": "Al costado este del Hospital de Alajuela, avenida 20, Alajuela",
+        "zone_id": "zone_I",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.89006250000001,
+          9.8505625
+        ]
+      },
+      "properties": {
+        "stop_id": "PPA",
+        "stop_code": "PPA",
+        "stop_name": "Plaza Para\u00edso",
+        "stop_desc": "Detr\u00e1s del centro comercial Plaza Para\u00edso",
+        "zone_id": "zone_F",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.90526562499998,
+          9.8612375
+        ]
+      },
+      "properties": {
+        "stop_id": "ORE",
+        "stop_code": "ORE",
+        "stop_name": "Oreamuno",
+        "stop_desc": "Calle La Petra, San Rafael de Oreamuno, Cartago",
+        "zone_id": "zone_F",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.922069999533,
+          9.866604834592895
+        ]
+      },
+      "properties": {
+        "stop_id": "CGO",
+        "stop_code": "CGO",
+        "stop_name": "Estaci\u00f3n Cartago",
+        "stop_desc": "Al costado este del Mercado de Cartago, calles 4 y 6, avenida 3, Cartago",
+        "zone_id": "zone_F",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9112340103301,
+          9.864220458830308
+        ]
+      },
+      "properties": {
+        "stop_id": "ANG",
+        "stop_code": "ANG",
+        "stop_name": "Los \u00c1ngeles",
+        "stop_desc": "Al costado sureste de la Bas\u00edlica de Nuestra Se\u00f1ora de los \u00c1ngeles, calles 15A y 19, avenida 1, Cartago",
+        "zone_id": "zone_F",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.98690265896568,
+          9.910679158872568
+        ]
+      },
+      "properties": {
+        "stop_id": "3RI",
+        "stop_code": "3RI",
+        "stop_name": "Tres R\u00edos",
+        "stop_desc": "100 m al este y 150 m al norte del Banco de Costa Rica, Calles 4 y 6, avenida 3 y 5, Tres R\u00edos",
+        "zone_id": "zone_F",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.02410826630013,
+          9.919484356339629
+        ]
+      },
+      "properties": {
+        "stop_id": "UAC",
+        "stop_code": "UAC",
+        "stop_name": "UACA",
+        "stop_desc": "Al costado norte de la Universidad Aut\u00f3noma de Centroam\u00e9rica, calle D032A, Granadilla, Curridabat",
+        "zone_id": "zone_F",
+        "stop_url": "",
+        "location_type": "0",
+        "parent_station": "",
+        "wheelchair_boarding": "1"
+      }
+    }
+  ]
+}

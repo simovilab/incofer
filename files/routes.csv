@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+BE,INCOFER,Belén,Curridabat - San José - Pavas - Belén,"Conecta Curridabat con Pavas y Belén, pasando por San Pedro y Sabana.",2,https://www.incofer.go.cr/transporte-de-personas/ruta-curridabat-pavas-belen/,00FF00,000000,1
+CA,INCOFER,Cartago,San José - Cartago,"Conecta Cartago con San José, pasando por Tres Ríos y San Pedro.",2,https://www.incofer.go.cr/transporte-de-personas/ruta-san-jose-cartago/,0000FF,FFFFFF,2
+AL,INCOFER,Alajuela,San José - Heredia - Alajuela,Conecta Alajuela con San Pedro pasando por Heredia y San José.,2,https://www.incofer.go.cr/transporte-de-personas/ruta-san-jose-heredia-alajuela/,FF0000,FFFFFF,3

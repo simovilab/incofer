@@ -1,0 +1,10 @@
+service_id,date,exception_type,holiday_name
+entresemana,20260101,2,Año Nuevo
+entresemana,20260411,2,Día de Juan Santamaría
+entresemana,20260501,2,Día del Trabajo
+entresemana,20260725,2,Día de la Anexión de Guanacaste
+entresemana,20260802,2,Día de la Virgen de los Ángeles
+entresemana,20260815,2,Día de la Madre
+entresemana,20260915,2,Día de la Independencia
+entresemana,20261201,2,Día de la Abolición del Ejército
+entresemana,20261225,2,Navidad
