@@ -1,35 +1,35 @@
 stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,wheelchair_boarding
-CFI,CFI,CFIA,"Al costado norte del Banco de Costa Rica, calle 093, transversal 093, Freses, Curridabat",9.92530063876106,-84.03704363474235,zone_A,,0,,1
-ULT,ULT,U Latina,"Al costado norte de la Universidad Latina, final norte de calle 73, Lourdes, San Pedro",9.932722742381136,-84.04416183400951,zone_A,,0,,1
-UCR,UCR,UCR,"Al costado sur Facultad de Arquitectura de la Universidad de Costa Rica, calles 53 y 57, avenidas 1 y de la Facultad, San Pedro",9.934196463000488,-84.05259208288311,zone_A,,0,,1
-ATL,ATL,Estación Atlántico,"En diagonal al costado suroeste de la Antigua Aduana, calles 21 y 23, paseo de Las Damas, San José",9.93481239427334,-84.06884518953048,zone_E,,0,,1
-LCO,LCO,La Corte,"Al costado norte del Juzgado Notarial, calles 13 y 15, avenidas 2 y 6, San José",9.93148250199304,-84.07237719917173,zone_A,,0,,1
-PVI,PVI,Plaza Víquez,"Al costado oeste de la piscina infantil Plaza González Víquez, calles 11 y 13, avenidas 18 y 22, San José",9.925212396096107,-84.07417007268589,zone_A,,0,,1
-EPA,EPA,Estación Pacífico,"Al costado norte del Hospital de la Mujer, calles central y 4, avenida 20, San José",9.925653138874257,-84.08057149519063,zone_B,,0,,1
-BCU,BCU,Barrio Cuba,"Al costado sur del Cementerio General, avenidas 22 y 28, calle transversal 24, San José",9.927121045369502,-84.09178559693969,zone_C,,0,,1
-CON,CON,Contraloría,"Al costado norte de la Contraloría General de la República, calles 50 y 54, avenida 12, Sabana Sur",9.932720263435725,-84.10174379426503,zone_C,,0,,1
-SLL,SLL,La Salle,"Al costado norte del Colegio de Médicos de Costa Rica, calles 66 y 68, avenida 12, Sabana Sur",9.933611144195913,-84.10986031084904,zone_C,,0,,1
-AYA,AYA,AyA,"Al costado sur de la Sede Central de Acueductos y Alcantarillados, final sur de calle 86A, Zona Industrial, Pavas",9.938060895753424,-84.11954202177782,zone_C,,0,,1
-JCK,JCK,Jack's,"Al costado sur de Sylvania, avenidas 11 y 15, contiguo calle 98, Zona Industrial, Pavas",9.94036421846442,-84.12386739407133,zone_C,,0,,1
-PAV,PAV,Pavas Centro,"75 m al sur y 50 m al oeste de la Iglesia de Santa Bárbara de Pavas, calles 120 y 122, avenidas 11 y 13, Pavas",9.940248821922458,-84.13475346106277,zone_C,,0,,1
-PEC,PEC,Pecosa,"Al costado norte Distribuidora Pecosa, final sur de calle 130A, Pavas",9.946590955561911,-84.13851180190743,zone_C,,0,,1
-DEM,DEM,Demasa,"Al costado oeste de Demasa, transversal 142 y calle 156, Rincón Grande, Pavas",9.951303625784353,-84.14477726535797,zone_C,,0,,1
-MET,MET,Metrópoli,"Al costado sur de Asfaltos CBZ, transversal 142 y calle 158, Rincón Grande, Pavas",9.95700397343134,-84.15066314575766,zone_C,,0,,1
-PED,PED,Pedregal,"150 m al sur de La Casona de Pedregal, Centro de Eventos Pedregal, Belén",9.974990571218004,-84.17902409172927,zone_D,,0,,1
-BEL,BEL,Estación Belén,"150 m al este de la plaza de deportes, Calles 1 y 150, avenida 2, Belén",9.978525595449552,-84.18503952268722,zone_D,,0,,1
-CBL,CBL,Calle Blancos,"400 m al sur del Tribunal Contencioso Administrativo y Civil, carretera regional 100, Calle Blancos",9.946182680273775,-84.07300389076869,zone_G,,0,,1
-CLM,CLM,Colima,"300 m noroeste de Metalco, transversal 18, avenida 51D, Colima, Tibás",9.957875927990399,-84.08808303914199,zone_G,,0,,1
-ROS,ROS,Santa Rosa,"200 m al suroeste y 80 m al sureste de la Iglesia de Santa Rosa, calle la Estación, Santa Rosa, Heredia",9.972176398056565,-84.09823357926133,zone_G,,0,,1
-MFL,MFL,Miraflores,"100 m al este y 25 m al norte del Paseo de las Flores, contiguo al antiguo complejo Miraflores, calle B, Heredia",9.987415097103808,-84.1089167332531,zone_G,,0,,1
-HER,HER,Estación Heredia,"100 m al sur del Mercado de Heredia, calles Central y 2, avenida 10, Heredia",9.9947091981885,-84.11712593433802,zone_H,,0,,1
-SFR,SFR,San Francisco,"Al costado norte de la rotonda Oxígeno, carretera regional 111, San Francisco, Heredia",9.994929653109462,-84.1292950039381,zone_I,,0,,1
-JOQ,JOQ,San Joaquín,"Al costado sur de la plaza de deportes, calles Central y 2, avenida Central, San Joaquín de Flores, Heredia",10.003267003590215,-84.15238307961802,zone_I,,0,,1
-RIO,RIO,Río Segundo,"250 m al sureste de la Delegación policial, transversal a carretera nacional 3, Río Segundo, Alajuela",10.00280511668109,-84.18416967284529,zone_I,,0,,1
-SJO,SJO,Bulevar Aeropuerto,"Al costado norte del Hotel Holiday Inn Aeropuerto, calle Holiday Inn, Alajuela",10.001666842660482,-84.19521218364292,zone_I,,0,,1
-ALJ,ALJ,Alajuela,"Al costado este del Hospital de Alajuela, avenida 20, Alajuela",10.008588147098596,-84.20928013755687,zone_I,,0,,1
-PPA,PPA,Plaza Paraíso,Detrás del centro comercial Plaza Paraíso,9.850562500000000,-83.890062500000010,zone_F,,0,,1
-ORE,ORE,Oreamuno,"Calle La Petra, San Rafael de Oreamuno, Cartago",9.861237500000000,-83.905265624999980,zone_F,,0,,1
-CGO,CGO,Estación Cartago,"Al costado este del Mercado de Cartago, calles 4 y 6, avenida 3, Cartago",9.866604834592895,-83.922069999533,zone_F,,0,,1
-ANG,ANG,Los Ángeles,"Al costado sureste de la Basílica de Nuestra Señora de los Ángeles, calles 15A y 19, avenida 1, Cartago",9.864220458830308,-83.9112340103301,zone_F,,0,,1
-3RI,3RI,Tres Ríos,"100 m al este y 150 m al norte del Banco de Costa Rica, Calles 4 y 6, avenida 3 y 5, Tres Ríos",9.910679158872568,-83.98690265896568,zone_F,,0,,1
-UAC,UAC,UACA,"Al costado norte de la Universidad Autónoma de Centroamérica, calle D032A, Granadilla, Curridabat",9.919484356339629,-84.02410826630013,zone_F,,0,,1
+CFI,CFI,CFIA,"Al costado norte del Banco de Costa Rica, calle 093, transversal 093, Freses, Curridabat",9.925263252038647,-84.03708147841358,zone_A,,0,,1
+ULT,ULT,U Latina,"Al costado norte de la Universidad Latina, final norte de calle 73, Lourdes, San Pedro",9.932614857018942,-84.04416938598487,zone_A,,0,,1
+UCR,UCR,UCR,"Al costado sur Facultad de Arquitectura de la Universidad de Costa Rica, calles 53 y 57, avenidas 1 y de la Facultad, San Pedro",9.934098908379708,-84.05262037372313,zone_A,,0,,1
+ATL,ATL,Estación Atlántico,"En diagonal al costado suroeste de la Antigua Aduana, calles 21 y 23, paseo de Las Damas, San José",9.934814282977209,-84.0688443015145,zone_E,,0,,1
+LCO,LCO,La Corte,"Al costado norte del Juzgado Notarial, calles 13 y 15, avenidas 2 y 6, San José",9.931417965777968,-84.0723421628355,zone_A,,0,,1
+PVI,PVI,Plaza Víquez,"Al costado oeste de la piscina infantil Plaza González Víquez, calles 11 y 13, avenidas 18 y 22, San José",9.925120579495385,-84.07412329209568,zone_A,,0,,1
+EPA,EPA,Estación Pacífico,"Al costado norte del Hospital de la Mujer, calles central y 4, avenida 20, San José",9.925358688424526,-84.0805925658245,zone_B,,0,,1
+BCU,BCU,Barrio Cuba,"Al costado sur del Cementerio General, avenidas 22 y 28, calle transversal 24, San José",9.927089952274379,-84.09183434362362,zone_C,,0,,1
+CON,CON,Contraloría,"Al costado norte de la Contraloría General de la República, calles 50 y 54, avenida 12, Sabana Sur",9.932690430876995,-84.10174675646263,zone_C,,0,,1
+SLL,SLL,La Salle,"Al costado norte del Colegio de Médicos de Costa Rica, calles 66 y 68, avenida 12, Sabana Sur",9.933497182683995,-84.10987162655681,zone_C,,0,,1
+AYA,AYA,AyA,"Al costado sur de la Sede Central de Acueductos y Alcantarillados, final sur de calle 86A, Zona Industrial, Pavas",9.937988975364487,-84.11958193759368,zone_C,,0,,1
+JCK,JCK,Jack's,"Al costado sur de Sylvania, avenidas 11 y 15, contiguo calle 98, Zona Industrial, Pavas",9.940364182686988,-84.12386739197302,zone_C,,0,,1
+PAV,PAV,Pavas Centro,"75 m al sur y 50 m al oeste de la Iglesia de Santa Bárbara de Pavas, calles 120 y 122, avenidas 11 y 13, Pavas",9.940092768957777,-84.1347706268889,zone_C,,0,,1
+PEC,PEC,Pecosa,"Al costado norte Distribuidora Pecosa, final sur de calle 130A, Pavas",9.946480045850247,-84.13854459949358,zone_C,,0,,1
+DEM,DEM,Demasa,"Al costado oeste de Demasa, transversal 142 y calle 156, Rincón Grande, Pavas",9.951257520835336,-84.14486068325908,zone_C,,0,,1
+MET,MET,Metrópoli,"Al costado sur de Asfaltos CBZ, transversal 142 y calle 158, Rincón Grande, Pavas",9.956981169974018,-84.15070352037216,zone_C,,0,,1
+PED,PED,Pedregal,"150 m al sur de La Casona de Pedregal, Centro de Eventos Pedregal, Belén",9.974951904276722,-84.17905686955918,zone_D,,0,,1
+BEL,BEL,Estación Belén,"150 m al este de la plaza de deportes, Calles 1 y 150, avenida 2, Belén",9.9784607,-84.1849399,zone_D,,0,,1
+CBL,CBL,Calle Blancos,"400 m al sur del Tribunal Contencioso Administrativo y Civil, carretera regional 100, Calle Blancos",9.946161184137159,-84.07301901885093,zone_G,,0,,1
+CLM,CLM,Colima,"300 m noroeste de Metalco, transversal 18, avenida 51D, Colima, Tibás",9.95783727282546,-84.08814453972013,zone_G,,0,,1
+ROS,ROS,Santa Rosa,"200 m al suroeste y 80 m al sureste de la Iglesia de Santa Rosa, calle la Estación, Santa Rosa, Heredia",9.972153465532635,-84.09825434776452,zone_G,,0,,1
+MFL,MFL,Miraflores,"100 m al este y 25 m al norte del Paseo de las Flores, contiguo al antiguo complejo Miraflores, calle B, Heredia",9.987380626859101,-84.10896536419195,zone_G,,0,,1
+HER,HER,Estación Heredia,"100 m al sur del Mercado de Heredia, calles Central y 2, avenida 10, Heredia",9.994703538385188,-84.11712622535842,zone_H,,0,,1
+SFR,SFR,San Francisco,"Al costado norte de la rotonda Oxígeno, carretera regional 111, San Francisco, Heredia",9.994809623648992,-84.12932717130181,zone_I,,0,,1
+JOQ,JOQ,San Joaquín,"Al costado sur de la plaza de deportes, calles Central y 2, avenida Central, San Joaquín de Flores, Heredia",10.003169232884462,-84.15237380976578,zone_I,,0,,1
+RIO,RIO,Río Segundo,"250 m al sureste de la Delegación policial, transversal a carretera nacional 3, Río Segundo, Alajuela",10.002726059310815,-84.18419702968343,zone_I,,0,,1
+SJO,SJO,Bulevar Aeropuerto,"Al costado norte del Hotel Holiday Inn Aeropuerto, calle Holiday Inn, Alajuela",10.001588979246728,-84.19522395280289,zone_I,,0,,1
+ALJ,ALJ,Alajuela,"Al costado este del Hospital de Alajuela, avenida 20, Alajuela",10.008588148440301,-84.20928013688506,zone_I,,0,,1
+PPA,PPA,Plaza Paraíso,Detrás del centro comercial Plaza Paraíso,9.850563,-83.8901,zone_F,,0,,1
+ORE,ORE,Oreamuno,"Calle La Petra, San Rafael de Oreamuno, Cartago",9.861221667429653,-83.9052767442558,zone_F,,0,,1
+CGO,CGO,Estación Cartago,"Al costado este del Mercado de Cartago, calles 4 y 6, avenida 3, Cartago",9.86660615067522,-83.92207088788857,zone_F,,0,,1
+ANG,ANG,Los Ángeles,"Al costado sureste de la Basílica de Nuestra Señora de los Ángeles, calles 15A y 19, avenida 1, Cartago",9.864265049682496,-83.91122054189336,zone_F,,0,,1
+3RI,3RI,Tres Ríos,"100 m al este y 150 m al norte del Banco de Costa Rica, Calles 4 y 6, avenida 3 y 5, Tres Ríos",9.910574690227781,-83.98689273444442,zone_F,,0,,1
+UAC,UAC,UACA,"Al costado norte de la Universidad Autónoma de Centroamérica, calle D032A, Granadilla, Curridabat",9.919443147150323,-84.02413239502646,zone_F,,0,,1
