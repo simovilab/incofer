@@ -3,7 +3,7 @@ import json
 from collections import defaultdict
 from pathlib import Path
 
-shapes_path = Path("files/shapes.csv")
+shapes_path = Path("files/shapes.txt")
 output_path = Path("aux/geojson/shapes.geojson")
 output_path.parent.mkdir(parents=True, exist_ok=True)
 

@@ -1,95 +1,95 @@
 route_id,service_id,trip_id,trip_start_time,trip_headsign,trip_short_name,direction_id,shape_id,wheelchair_accessible,bikes_allowed
-BE,entresemana,pacifico_belen_05:15,05:15,Estación del Pacífico a Belén,,1,pacifico_belen,1,1
-BE,entresemana,atlantico_belen_06:23,06:23,Estación del Atlántico a Belén,,1,atlantico_belen,1,1
-BE,entresemana,pacifico_belen_06:55,06:55,Estación del Pacífico a Belén,,1,pacifico_belen,1,1
-BE,entresemana,cfia_metropoli_06:37,06:37,Curridabat a Metrópoli,,1,cfia_metropoli,1,1
-BE,entresemana,pacifico_belen_15:15,15:15,Estación del Pacífico a Belén,,1,pacifico_belen,1,1
-BE,entresemana,pacifico_metropoli_15:25,15:25,Estación del Pacífico a Metrópoli,,1,pacifico_metropoli,1,1
-BE,entresemana,pacifico_belen_15:55,15:55,Estación del Pacífico a Belén,,1,pacifico_belen,1,1
-BE,entresemana,pacifico_metropoli_16:15,16:15,Estación del Pacífico a Metrópoli,,1,pacifico_metropoli,1,1
-BE,entresemana,pacifico_belen_17:25,17:25,Estación del Pacífico a Belén,,1,pacifico_belen,1,1
-BE,entresemana,pacifico_metropoli_17:50,17:50,Estación del Pacífico a Metrópoli,,1,pacifico_metropoli,1,1
-BE,entresemana,belen_pacifico_06:05,06:05,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
-BE,entresemana,belen_pacifico_07:25,07:25,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
-BE,entresemana,metropoli_pacifico_08:01,08:01,Metrópoli a Estación del Pacífico,,0,metropoli_pacifico,1,1
-BE,entresemana,belen_pacifico_07:55,07:55,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
-BE,entresemana,metropoli_cfia_16:01,16:01,Metrópoli a Curridabat,,0,metropoli_cfia,1,1
-BE,entresemana,belen_pacifico_16:10,16:10,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
-BE,entresemana,metropoli_atlantico_16:53,16:53,Metrópoli a Estación del Atlántico,,0,metropoli_atlantico,1,1
-BE,entresemana,belen_pacifico_16:55,16:55,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
-BE,entresemana,metropoli_pacifico_18:30,18:30,Metrópoli a Estación del Pacífico,,0,metropoli_pacifico,1,1
-BE,entresemana,belen_pacifico_18:30,18:30,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
-CA,entresemana,atlantico_angeles_06:01,06:01,Estación del Atlántico a Los Ángeles,,0,atlantico_angeles,1,1
-CA,entresemana,atlantico_angeles_06:35,06:35,Estación del Atlántico a Los Ángeles,,0,atlantico_angeles,1,1
-CA,entresemana,atlantico_cartago_07:20,07:20,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
-CA,entresemana,atlantico_cartago_08:05,08:05,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
-CA,entresemana,atlantico_cartago_15:01,15:01,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
-CA,entresemana,atlantico_oreamuno_15:35,15:35,Estación del Atlántico a Oreamuno,,0,atlantico_oreamuno,1,1
-CA,entresemana,atlantico_cartago_16:10,16:10,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
-CA,entresemana,atlantico_oreamuno_16:45,16:45,Estación del Atlántico a Oreamuno,,0,atlantico_oreamuno,1,1
-CA,entresemana,atlantico_paraiso_17:01,17:01,Estación del Atlántico a Plaza Paraíso,,0,atlantico_paraiso,1,1
-CA,entresemana,atlantico_paraiso_17:35,17:35,Estación del Atlántico a Plaza Paraíso,,0,atlantico_paraiso,1,1
-CA,entresemana,atlantico_oreamuno_18:05,18:05,Estación del Atlántico a Oreamuno,,0,atlantico_oreamuno,1,1
-CA,entresemana,atlantico_cartago_18:45,18:45,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
-CA,entresemana,atlantico_cartago_19:15,19:15,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
-CA,entresemana,atlantico_cartago_19:40,19:40,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
-CA,entresemana,angeles_atlantico_05:25,05:25,Los Ángeles a Estación del Atlántico,,1,angeles_atlantico,1,1
-CA,entresemana,cartago_atlantico_06:01,06:01,Cartago a Estación del Atlántico,,1,cartago_atlantico,1,1
-CA,entresemana,paraiso_atlantico_06:05,06:05,Plaza Paraíso a Estación del Atlántico,,1,paraiso_atlantico,1,1
-CA,entresemana,angeles_atlantico_06:55,06:55,Los Ángeles a Estación del Atlántico,,1,angeles_atlantico,1,1
-CA,entresemana,angeles_atlantico_07:35,07:35,Los Ángeles a Estación del Atlántico,,1,angeles_atlantico,1,1
-CA,entresemana,cartago_atlantico_08:11,08:11,Cartago a Estación del Atlántico,,1,cartago_atlantico,1,1
-CA,entresemana,cartago_atlantico_09:01,09:01,Cartago a Estación del Atlántico,,1,cartago_atlantico,1,1
-CA,entresemana,cartago_atlantico_15:50,15:50,Cartago a Estación del Atlántico,,1,cartago_atlantico,1,1
-CA,entresemana,oreamuno_atlantico_16:28,16:28,Oreamuno a Estación del Atlántico,,1,oreamuno_atlantico,1,1
-CA,entresemana,cartago_atlantico_17:05,17:05,Cartago a Estación del Atlántico,,1,cartago_atlantico,1,1
-CA,entresemana,oreamuno_atlantico_17:40,17:40,Oreamuno a Estación del Atlántico,,1,oreamuno_atlantico,1,1
-CA,entresemana,paraiso_atlantico_18:07,18:07,Plaza Paraíso a Estación del Atlántico,,1,paraiso_atlantico,1,1
-CA,entresemana,paraiso_atlantico_18:35,18:35,Plaza Paraíso a Estación del Atlántico,,1,paraiso_atlantico,1,1
-CA,entresemana,oreamuno_atlantico_18:58,18:58,Oreamuno a Estación del Atlántico,,1,oreamuno_atlantico,1,1
-AL,entresemana,atlantico_alajuela_04:50,04:50,Estación del Atlántico a Alajuela,,1,atlantico_alajuela,1,1
-AL,entresemana,atlantico_heredia_05:30,05:30,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,atlantico_heredia_05:40,05:40,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,ulatina_heredia_05:50,05:50,ULatina a Heredia,,1,ulatina_heredia,1,1
-AL,entresemana,atlantico_heredia_06:25,06:25,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,atlantico_alajuela_06:39,06:39,Estación del Atlántico a Alajuela,,1,atlantico_alajuela,1,1
-AL,entresemana,atlantico_heredia_06:55,06:55,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,ulatina_heredia_07:11,07:11,ULatina a Heredia,,1,ulatina_heredia,1,1
-AL,entresemana,atlantico_alajuela_07:35,07:35,Estación del Atlántico a Alajuela,,1,atlantico_alajuela,1,1
-AL,entresemana,atlantico_heredia_07:55,07:55,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,atlantico_heredia_08:15,08:15,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,atlantico_heredia_09:05,09:05,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,atlantico_alajuela_15:30,15:30,Estación del Atlántico a Alajuela,,1,atlantico_alajuela,1,1
-AL,entresemana,atlantico_heredia_15:50,15:50,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,atlantico_heredia_16:30,16:30,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,ulatina_heredia_16:50,16:50,ULatina a Heredia,,1,ulatina_heredia,1,1
-AL,entresemana,atlantico_heredia_17:20,17:20,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,atlantico_alajuela_17:35,17:35,Estación del Atlántico a Alajuela,,1,atlantico_alajuela,1,1
-AL,entresemana,atlantico_heredia_18:01,18:01,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,ulatina_heredia_18:08,18:08,ULatina a Heredia,,1,ulatina_heredia,1,1
-AL,entresemana,atlantico_heredia_18:35,18:35,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,atlantico_heredia_19:05,19:05,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,atlantico_heredia_19:30,19:30,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
-AL,entresemana,heredia_atlantico_06:01,06:01,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,alajuela_atlantico_05:45,05:45,Alajuela a Estación del Atlántico,,0,alajuela_atlantico,1,1
-AL,entresemana,heredia_atlantico_06:20,06:20,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,heredia_ulatina_06:35,06:35,Heredia a ULatina,,0,heredia_ulatina,1,1
-AL,entresemana,heredia_atlantico_06:55,06:55,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,heredia_atlantico_07:20,07:20,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,heredia_atlantico_07:50,07:50,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,alajuela_atlantico_07:40,07:40,Alajuela a Estación del Atlántico,,0,alajuela_atlantico,1,1
-AL,entresemana,heredia_atlantico_08:25,08:25,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,heredia_atlantico_08:40,08:40,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,alajuela_atlantico_08:31,08:31,Alajuela a Estación del Atlántico,,0,alajuela_atlantico,1,1
-AL,entresemana,heredia_atlantico_09:31,09:31,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,heredia_ulatina_16:15,16:15,Heredia a ULatina,,0,heredia_ulatina,1,1
-AL,entresemana,alajuela_atlantico_16:25,16:25,Alajuela a Estación del Atlántico,,0,alajuela_atlantico,1,1
-AL,entresemana,heredia_atlantico_17:05,17:05,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,heredia_ulatina_17:35,17:35,Heredia a ULatina,,0,heredia_ulatina,1,1
-AL,entresemana,heredia_atlantico_17:50,17:50,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,heredia_atlantico_18:35,18:35,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,heredia_atlantico_18:50,18:50,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,alajuela_atlantico_18:35,18:35,Alajuela a Estación del Atlántico,,0,alajuela_atlantico,1,1
-AL,entresemana,heredia_atlantico_19:15,19:15,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,heredia_atlantico_19:31,19:31,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
-AL,entresemana,heredia_atlantico_20:01,20:01,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L3,entresemana,pacifico_belen_05:15,05:15,Estación del Pacífico a Belén,,1,pacifico_belen,1,1
+L3,entresemana,atlantico_belen_06:23,06:23,Estación del Atlántico a Belén,,1,atlantico_belen,1,1
+L3,entresemana,pacifico_belen_06:55,06:55,Estación del Pacífico a Belén,,1,pacifico_belen,1,1
+L3,entresemana,cfia_metropoli_06:37,06:37,Curridabat a Metrópoli,,1,cfia_metropoli,1,1
+L3,entresemana,pacifico_belen_15:15,15:15,Estación del Pacífico a Belén,,1,pacifico_belen,1,1
+L3,entresemana,pacifico_metropoli_15:25,15:25,Estación del Pacífico a Metrópoli,,1,pacifico_metropoli,1,1
+L3,entresemana,pacifico_belen_15:55,15:55,Estación del Pacífico a Belén,,1,pacifico_belen,1,1
+L3,entresemana,pacifico_metropoli_16:15,16:15,Estación del Pacífico a Metrópoli,,1,pacifico_metropoli,1,1
+L3,entresemana,pacifico_belen_17:25,17:25,Estación del Pacífico a Belén,,1,pacifico_belen,1,1
+L3,entresemana,pacifico_metropoli_17:50,17:50,Estación del Pacífico a Metrópoli,,1,pacifico_metropoli,1,1
+L3,entresemana,belen_pacifico_06:05,06:05,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
+L3,entresemana,belen_pacifico_07:25,07:25,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
+L3,entresemana,metropoli_pacifico_08:01,08:01,Metrópoli a Estación del Pacífico,,0,metropoli_pacifico,1,1
+L3,entresemana,belen_pacifico_07:55,07:55,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
+L3,entresemana,metropoli_cfia_16:01,16:01,Metrópoli a Curridabat,,0,metropoli_cfia,1,1
+L3,entresemana,belen_pacifico_16:10,16:10,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
+L3,entresemana,metropoli_atlantico_16:53,16:53,Metrópoli a Estación del Atlántico,,0,metropoli_atlantico,1,1
+L3,entresemana,belen_pacifico_16:55,16:55,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
+L3,entresemana,metropoli_pacifico_18:30,18:30,Metrópoli a Estación del Pacífico,,0,metropoli_pacifico,1,1
+L3,entresemana,belen_pacifico_18:30,18:30,Belén a Estación del Pacífico,,0,belen_pacifico,1,1
+L2,entresemana,atlantico_angeles_06:01,06:01,Estación del Atlántico a Los Ángeles,,0,atlantico_angeles,1,1
+L2,entresemana,atlantico_angeles_06:35,06:35,Estación del Atlántico a Los Ángeles,,0,atlantico_angeles,1,1
+L2,entresemana,atlantico_cartago_07:20,07:20,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
+L2,entresemana,atlantico_cartago_08:05,08:05,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
+L2,entresemana,atlantico_cartago_15:01,15:01,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
+L2,entresemana,atlantico_oreamuno_15:35,15:35,Estación del Atlántico a Oreamuno,,0,atlantico_oreamuno,1,1
+L2,entresemana,atlantico_cartago_16:10,16:10,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
+L2,entresemana,atlantico_oreamuno_16:45,16:45,Estación del Atlántico a Oreamuno,,0,atlantico_oreamuno,1,1
+L2,entresemana,atlantico_paraiso_17:01,17:01,Estación del Atlántico a Plaza Paraíso,,0,atlantico_paraiso,1,1
+L2,entresemana,atlantico_paraiso_17:35,17:35,Estación del Atlántico a Plaza Paraíso,,0,atlantico_paraiso,1,1
+L2,entresemana,atlantico_oreamuno_18:05,18:05,Estación del Atlántico a Oreamuno,,0,atlantico_oreamuno,1,1
+L2,entresemana,atlantico_cartago_18:45,18:45,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
+L2,entresemana,atlantico_cartago_19:15,19:15,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
+L2,entresemana,atlantico_cartago_19:40,19:40,Estación del Atlántico a Cartago,,0,atlantico_cartago,1,1
+L2,entresemana,angeles_atlantico_05:25,05:25,Los Ángeles a Estación del Atlántico,,1,angeles_atlantico,1,1
+L2,entresemana,cartago_atlantico_06:01,06:01,Cartago a Estación del Atlántico,,1,cartago_atlantico,1,1
+L2,entresemana,paraiso_atlantico_06:05,06:05,Plaza Paraíso a Estación del Atlántico,,1,paraiso_atlantico,1,1
+L2,entresemana,angeles_atlantico_06:55,06:55,Los Ángeles a Estación del Atlántico,,1,angeles_atlantico,1,1
+L2,entresemana,angeles_atlantico_07:35,07:35,Los Ángeles a Estación del Atlántico,,1,angeles_atlantico,1,1
+L2,entresemana,cartago_atlantico_08:11,08:11,Cartago a Estación del Atlántico,,1,cartago_atlantico,1,1
+L2,entresemana,cartago_atlantico_09:01,09:01,Cartago a Estación del Atlántico,,1,cartago_atlantico,1,1
+L2,entresemana,cartago_atlantico_15:50,15:50,Cartago a Estación del Atlántico,,1,cartago_atlantico,1,1
+L2,entresemana,oreamuno_atlantico_16:28,16:28,Oreamuno a Estación del Atlántico,,1,oreamuno_atlantico,1,1
+L2,entresemana,cartago_atlantico_17:05,17:05,Cartago a Estación del Atlántico,,1,cartago_atlantico,1,1
+L2,entresemana,oreamuno_atlantico_17:40,17:40,Oreamuno a Estación del Atlántico,,1,oreamuno_atlantico,1,1
+L2,entresemana,paraiso_atlantico_18:07,18:07,Plaza Paraíso a Estación del Atlántico,,1,paraiso_atlantico,1,1
+L2,entresemana,paraiso_atlantico_18:35,18:35,Plaza Paraíso a Estación del Atlántico,,1,paraiso_atlantico,1,1
+L2,entresemana,oreamuno_atlantico_18:58,18:58,Oreamuno a Estación del Atlántico,,1,oreamuno_atlantico,1,1
+L1,entresemana,atlantico_alajuela_04:50,04:50,Estación del Atlántico a Alajuela,,1,atlantico_alajuela,1,1
+L1,entresemana,atlantico_heredia_05:30,05:30,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,atlantico_heredia_05:40,05:40,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,ulatina_heredia_05:50,05:50,ULatina a Heredia,,1,ulatina_heredia,1,1
+L1,entresemana,atlantico_heredia_06:25,06:25,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,atlantico_alajuela_06:39,06:39,Estación del Atlántico a Alajuela,,1,atlantico_alajuela,1,1
+L1,entresemana,atlantico_heredia_06:55,06:55,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,ulatina_heredia_07:11,07:11,ULatina a Heredia,,1,ulatina_heredia,1,1
+L1,entresemana,atlantico_alajuela_07:35,07:35,Estación del Atlántico a Alajuela,,1,atlantico_alajuela,1,1
+L1,entresemana,atlantico_heredia_07:55,07:55,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,atlantico_heredia_08:15,08:15,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,atlantico_heredia_09:05,09:05,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,atlantico_alajuela_15:30,15:30,Estación del Atlántico a Alajuela,,1,atlantico_alajuela,1,1
+L1,entresemana,atlantico_heredia_15:50,15:50,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,atlantico_heredia_16:30,16:30,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,ulatina_heredia_16:50,16:50,ULatina a Heredia,,1,ulatina_heredia,1,1
+L1,entresemana,atlantico_heredia_17:20,17:20,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,atlantico_alajuela_17:35,17:35,Estación del Atlántico a Alajuela,,1,atlantico_alajuela,1,1
+L1,entresemana,atlantico_heredia_18:01,18:01,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,ulatina_heredia_18:08,18:08,ULatina a Heredia,,1,ulatina_heredia,1,1
+L1,entresemana,atlantico_heredia_18:35,18:35,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,atlantico_heredia_19:05,19:05,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,atlantico_heredia_19:30,19:30,Estación del Atlántico a Heredia,,1,atlantico_heredia,1,1
+L1,entresemana,heredia_atlantico_06:01,06:01,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,alajuela_atlantico_05:45,05:45,Alajuela a Estación del Atlántico,,0,alajuela_atlantico,1,1
+L1,entresemana,heredia_atlantico_06:20,06:20,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,heredia_ulatina_06:35,06:35,Heredia a ULatina,,0,heredia_ulatina,1,1
+L1,entresemana,heredia_atlantico_06:55,06:55,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,heredia_atlantico_07:20,07:20,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,heredia_atlantico_07:50,07:50,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,alajuela_atlantico_07:40,07:40,Alajuela a Estación del Atlántico,,0,alajuela_atlantico,1,1
+L1,entresemana,heredia_atlantico_08:25,08:25,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,heredia_atlantico_08:40,08:40,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,alajuela_atlantico_08:31,08:31,Alajuela a Estación del Atlántico,,0,alajuela_atlantico,1,1
+L1,entresemana,heredia_atlantico_09:31,09:31,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,heredia_ulatina_16:15,16:15,Heredia a ULatina,,0,heredia_ulatina,1,1
+L1,entresemana,alajuela_atlantico_16:25,16:25,Alajuela a Estación del Atlántico,,0,alajuela_atlantico,1,1
+L1,entresemana,heredia_atlantico_17:05,17:05,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,heredia_ulatina_17:35,17:35,Heredia a ULatina,,0,heredia_ulatina,1,1
+L1,entresemana,heredia_atlantico_17:50,17:50,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,heredia_atlantico_18:35,18:35,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,heredia_atlantico_18:50,18:50,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,alajuela_atlantico_18:35,18:35,Alajuela a Estación del Atlántico,,0,alajuela_atlantico,1,1
+L1,entresemana,heredia_atlantico_19:15,19:15,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,heredia_atlantico_19:31,19:31,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
+L1,entresemana,heredia_atlantico_20:01,20:01,Heredia a Estación del Atlántico,,0,heredia_atlantico,1,1
