@@ -2,7 +2,7 @@ import csv
 import json
 from pathlib import Path
 
-input_dir = Path("aux/geojson")
+input_dir = Path("aux/geojson/shapes")
 output_dir = Path("aux/csv")
 output_dir.mkdir(parents=True, exist_ok=True)
 
